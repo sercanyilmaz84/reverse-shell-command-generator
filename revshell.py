@@ -54,4 +54,4 @@ def create_shell (user_ip_address, user_port, user_shell_choice):
 
 create_shell(user_ip_address, user_port, user_shell_choice)
 
-print(OKGREEN+BOLD+"\n[+] created by Sercan Yılmaz"+ENDC)
+print(OKGREEN+BOLD+"\n[+] Good Luck's ;) My Twitter => @sercan_yilmaz_"+ENDC)
