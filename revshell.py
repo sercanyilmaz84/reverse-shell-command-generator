@@ -1,3 +1,8 @@
+#####################################
+# Coded by Sercan Yılmaz
+# Contact: sercanyilmaz@protonmail.com
+#####################################
+
 import optparse
 
 def user_input():
